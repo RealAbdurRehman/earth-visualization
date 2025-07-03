@@ -1,5 +1,3 @@
-<!-- Add demo link -->
-
 # 🌍 Earth Visualization
 
 An immersive 3D visualization of the Earth, the Moon, and the Sun.
@@ -7,7 +5,7 @@ An immersive 3D visualization of the Earth, the Moon, and the Sun.
 <p align="center">
 	<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/34c3b91f1435049c9a533bd19f1e5987fc46159c_preview1.png" alt="Demo">
 	<br>
-	<a href="">Live demo</a>
+	<a href="https://earth-visualization-psi.vercel.app/">Live demo</a>
 	<br>
 </p>
 
