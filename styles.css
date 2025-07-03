@@ -32,20 +32,26 @@ li {
   display: grid;
   place-items: center;
   color: white;
-  text-align: center;
   background-color: #00000080;
   opacity: 1;
   visibility: visible;
   transition: opacity 0.75s ease-in-out, visibility 0s 0.75s;
 }
 
+.loading-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
 .loading-title {
   font-size: 2rem;
 }
 
-.loading-text {
-  margin-top: 12px;
-  height: 1px;
+.loading-message {
+  position: absolute;
+  bottom: 20px;
 }
 
 .loaded-text {
