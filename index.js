@@ -104,7 +104,7 @@ const sunMat = new THREE.MeshStandardMaterial({
 });
 const sunGeo = new THREE.IcosahedronGeometry(17, 64);
 const sunMesh = new THREE.Mesh(sunGeo, sunMat);
-sunMesh.position.set(-50, 50, 90);
+sunMesh.position.set(0, 35, 47);
 sunGroup.add(sunMesh);
 
 const lensflare = new Lensflare();
